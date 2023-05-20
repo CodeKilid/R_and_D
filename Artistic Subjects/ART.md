@@ -15,3 +15,23 @@ By thoroughly observing and analyzing these elements, you'll be able to develop 
 5. Style and influences: Consider the style of the artwork and any discernible influences the artist may have drawn from. Is it reminiscent of a specific art movement, such as Impressionism, Cubism, or Surrealism? Explore how the artist's unique style contributes to the overall impact.
 
 6. Emotional response: Reflect on your personal emotional response to the artwork. Does it evoke a sense of tranquility, excitement, confusion, or introspection? Consider how the artwork's formal elements contribute to these emotional reactions.
+
+### Observe and analyze:
+
+1. Composition:
+   Examine how the elements are arranged within the artwork and relationship between objects and thier placement is matter.
+
+2. Color palette:
+   colors are important, it's about emotions and symbolic implications.
+
+3. Texture and brushwork:
+   If it's a painting or a sculpture, the artist's technique need to be checked.Notice the brushstrokes, the layering of paint, or any visible marks left by the artist's hand.
+
+4. Subject matter:
+   Look for recognizable objects, figures, or symbols that convey meaning or narrative.
+
+5. Style and influences:
+   how the artist style and influence would help overall impact.
+
+6. Emotional response:
+   its about personal emotions and how the elements contribute to these emotional reactions.
