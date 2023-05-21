@@ -1,6 +1,6 @@
 # ART
 
-## 1, Observe and analyze
+## Observe and analyze:
 
 1. Composition:
    Examine how the elements are arranged within the artwork and relationship between objects and thier placement is matter.
@@ -35,6 +35,16 @@ By thoroughly observing and analyzing these elements, you'll be able to develop 
 5. Style and influences: Consider the style of the artwork and any discernible influences the artist may have drawn from. Is it reminiscent of a specific art movement, such as Impressionism, Cubism, or Surrealism? Explore how the artist's unique style contributes to the overall impact.
 
 6. Emotional response: Reflect on your personal emotional response to the artwork. Does it evoke a sense of tranquility, excitement, confusion, or introspection? Consider how the artwork's formal elements contribute to these emotional reactions.
+
+## 3, Set the context:
+
+its talking about the base of ART :
+
+1. the vivid color and the dynamic compositions matter.
+2. the art can engaged the viewers to a deeper level of understanding by it's nature
+3. overall impact: we should consider the mood and the emotions and the atmospher these will impact the overall feeling
+4. visual impact: we should think on how the art's elements work together.
+5. initial reaction: its about how a viewer would feel when he/she saw the art for the first time, its about the first personal feeling ot thoughts .
 
 ## 5, Analyze the artistic elements
 
