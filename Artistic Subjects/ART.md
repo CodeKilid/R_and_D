@@ -1,7 +1,6 @@
 # ART
 
-
-## Observe and analyze:
+## 1, Observe and analyze:
 
 1. Composition:
    Examine how the elements are arranged within the artwork and relationship between objects and thier placement is matter.
@@ -21,7 +20,7 @@
 6. Emotional response:
    its about personal emotions and how the elements contribute to these emotional reactions.
 
-## Start with the basics
+## 2, Start with the basics
 
 By thoroughly observing and analyzing these elements, you'll be able to develop a deeper understanding of the artwork, which will in turn help you craft a more detailed and engaging description.
 
@@ -37,3 +36,10 @@ By thoroughly observing and analyzing these elements, you'll be able to develop 
 
 6. Emotional response: Reflect on your personal emotional response to the artwork. Does it evoke a sense of tranquility, excitement, confusion, or introspection? Consider how the artwork's formal elements contribute to these emotional reactions.
 
+## 6, Discuss the technique:
+
+In this step, you'll delve into the artist's technique and skill, focusing on the technical aspects that enhance the artwork's impact.
+
+1. Perspective and composition: Analyze how the artist has employed perspective and composition to create a sense of depth and visual interest.
+
+2. Brushwork and texture: If it's a painting, pay attention to the artist's brushwork and the resulting texture. Describe whether the brushstrokes are bold and expressive, or delicate and precise. think the surface quality of the artwork, whether it's smooth, textured, or layered, and how it enhances the visual experience.
