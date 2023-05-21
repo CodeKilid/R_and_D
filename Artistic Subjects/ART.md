@@ -1,6 +1,6 @@
 # ART
 
-## Observe and analyze:
+## Observe and analyze
 
 1. Composition:
    Examine how the elements are arranged within the artwork and relationship between objects and thier placement is matter.
@@ -36,7 +36,7 @@ By thoroughly observing and analyzing these elements, you'll be able to develop 
 
 6. Emotional response: Reflect on your personal emotional response to the artwork. Does it evoke a sense of tranquility, excitement, confusion, or introspection? Consider how the artwork's formal elements contribute to these emotional reactions.
 
-## 3, Set the context:
+## 3, Set the context
 
 its talking about the base of ART :
 
