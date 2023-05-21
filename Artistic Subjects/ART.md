@@ -46,6 +46,19 @@ its talking about the base of ART :
 4. visual impact: we should think on how the art's elements work together.
 5. initial reaction: its about how a viewer would feel when he/she saw the art for the first time, its about the first personal feeling ot thoughts .
 
+## 4, Dive into details
+
+1. central theme is about checking the main topic or overall understanding of the ART, Specify the particular angle or perspective the artwork takes on the theme. think of how artist use the elements and symbols, metaphors for telling the story.
+
+2. Symbolism: analyze specific symbols within the artwork and think thire relationship with eachother , we need to understand how the
+   artist engaged the viewer with the symbols and the meaning of overall message.
+
+3. Storytelling: its about how the artist using the elements and ideas and the emotions of viewer to tell a story for the ART.
+
+4. Cultural or Historical Context: the history and the culture is important, we need to check the societal, political, or historical events and contexts might have influenced the artist's choice of subject, we also need to think of how ideas challenge the these events and main topic
+
+#### all these things will allow the viewer or reader to understand the ART in deeper level
+
 ## 5, Analyze the artistic elements
 
 In this step, we'll analyze and discuss the various artistic elements present in the artwork.
