@@ -1,6 +1,6 @@
 # ART
 
-## 1, Observe and analyze:
+## 1, Observe and analyze
 
 1. Composition:
    Examine how the elements are arranged within the artwork and relationship between objects and thier placement is matter.
@@ -36,7 +36,7 @@ By thoroughly observing and analyzing these elements, you'll be able to develop 
 
 6. Emotional response: Reflect on your personal emotional response to the artwork. Does it evoke a sense of tranquility, excitement, confusion, or introspection? Consider how the artwork's formal elements contribute to these emotional reactions.
 
-## 6, Discuss the technique:
+## 6, Discuss the technique
 
 In this step, you'll delve into the artist's technique and skill, focusing on the technical aspects that enhance the artwork's impact.
 
@@ -52,7 +52,7 @@ In this step, you'll delve into the artist's technique and skill, focusing on th
 
    #### By discussing the technique, you shed light on the artistic process and the artist's ability to manipulate their chosen medium. This adds depth to the art description, allowing the reader to appreciate the technical proficiency and craftsmanship behind the creation.
 
-## 7, Reflect on the artist's indention:
+## 7, Reflect on the artist's indention
 
 In this step, we'll consider the artist's creative intent and the conceptual framework behind the artwork.
 
@@ -68,7 +68,7 @@ In this step, we'll consider the artist's creative intent and the conceptual fra
 
    #### By delving into the artist's intention, we provide deeper insights into the artwork's conceptual underpinnings and its relationship to the artist's broader body of work. This allows the reader to gain a richer understanding of the artwork's significance and appreciate the artist's creative vision.
 
-## 8, Invite engagement:
+## 8, Invite engagement
 
 In this step, we'll conclude the art description by inviting the reader to engage with the artwork and encouraging further exploration.
 
