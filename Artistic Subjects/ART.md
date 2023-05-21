@@ -50,4 +50,4 @@ In this step, you'll delve into the artist's technique and skill, focusing on th
 
 5. Technical mastery: Reflect on the artist's technical mastery in executing the artwork. Discuss their ability to handle the chosen medium, whether it's painting, sculpture, or another form. Consider their use of tools, materials, and any specialized techniques employed, highlighting the craftsmanship and skill evident in the artwork.
 
-#### By discussing the technique, you shed light on the artistic process and the artist's ability to manipulate their chosen medium. This adds depth to the art description, allowing the reader to appreciate the technical proficiency and craftsmanship behind the creation.
+   #### By discussing the technique, you shed light on the artistic process and the artist's ability to manipulate their chosen medium. This adds depth to the art description, allowing the reader to appreciate the technical proficiency and craftsmanship behind the creation.
