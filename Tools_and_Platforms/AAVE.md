@@ -4,7 +4,7 @@ we depoite our ETH and get WETH to make interact
 
 we're going to create getWeth and import into aaveBorrow.
 
-for withdraw we need Abi and contract address for call any contract.
+for withdraw we need Abi and contract address for call any contract. ---> in coding side.
 
 after we compile we have the abi to interact with.
 
