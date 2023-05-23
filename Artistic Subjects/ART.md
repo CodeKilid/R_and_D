@@ -1,6 +1,6 @@
 # ART
 
-## Observe and analyze
+## 1, Observe and analyze
 
 1. Composition:
    Examine how the elements are arranged within the artwork and relationship between objects and thier placement is matter.
