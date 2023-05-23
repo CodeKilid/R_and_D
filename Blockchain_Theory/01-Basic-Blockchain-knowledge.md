@@ -35,7 +35,7 @@ there is a reward for creating new block and it called block reward.
 for miner it's just like mini lottery that everyone guessing number as fast as they can until one lucky individual find a number that makes the hash of the block start with many zero and a reward for doing this.
 miners get paid with transaction fee .
 
-in bitcoin a block can contain 2400 transactions.
+in bitcoin a block can contain 2400 transactions.<br/>
 as miners increase finding block with many zero would be harder than before.
 
 ### Decentralized:
@@ -50,14 +50,14 @@ _Linked lists_ - a sequence of blocks where each block has specific data and lin
 
 ### Two kind of node:
 
-member node :
-only can initiate/receive transaction
-validator node :
+_member node :_<br/>
+only can initiate/receive transaction<br/>
+_validator node :_<br/>
 can initiate/ receive and validate transactions.
 
 ### All blockchain structures fall into three categories:
 
-1. ublic blockchain architecture
+1. Public blockchain architecture
 2. Private blockchain architecture
 3. Consortium blockchain architecture
 

@@ -60,12 +60,13 @@ Cross-chain bridges enable a digital asset owned by a party to be locked on one 
 ### Mining and incentive models:
 
 Mine: add all of the information of transaction to a block , information like: sender address. hash value,….<br/>
-<strong>Bitcoin Mining works in the following ways:</strong><br/>
 
+<strong>Bitcoin Mining works in the following ways:</strong><br/>
 Mining needs high computational power and resources to solve difficult mathematical algorithms in order to add the transaction records successfully to the Blockchain.
 The process of discovering a new Bitcoin is simply called Mining and Miners tend to find new Bitcoins by solving difficult and complex algorithms.
 Each Miner across the world uses the computational resources and power he has to process the transactions and add the records to the Blockchain. Bitcoin is designed by its creator to mine every new Bitcoin every 10 minutes.
 Since all Bitcoin Miners contribute their computational power for processing the transactions, they get a reward in return. All those Miners who solve the complex algorithms are awarded in terms of Bitcoin digital currency.<br/>
+
 <strong>incentive:</strong><br/>
 the reward that a miner will get for adding the transaction to the block , this reward will come from the transaction sender like fee.
 
